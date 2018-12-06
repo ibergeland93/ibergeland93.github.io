@@ -1,6 +1,6 @@
 <div class="rounded_panel txt_lightgrey">
 	<div class="top-rounded-panel grey-bg">
-		<h1>Work Experience</h1>
+		<h1>Projects</h1>
 	</div>
 	<div class="content-rounded-panel">
 		<div>
@@ -10,18 +10,20 @@
 						<th><a style="cursor: pointer;">Title</a></th>
 						<th><a style="cursor: pointer;">Start Date</a></th>
 						<th><a style="cursor: pointer;">End Date</a></th>
-						<th><a style="cursor: pointer;">Company</a></th>
-						<th class="hidden-sm hidden-xs" ><a style="cursor: pointer;">Role</a></th>
+						<th><a style="cursor: pointer;">Project Type</a></th>
+						<th><a style="cursor: pointer;">Institution</a></th>
+						<th class="hidden-sm hidden-xs" ><a style="cursor: pointer;">Description</a></th>
 					</tr>
 				</thead>
 				<tbody>
-					{% for role in site.roles %}
+					{% for project in site.projects %}
 						<tr>
-							<td>{{role.title}}</td>
-							<td>{{role.start}}</td>
-							<td>{{role.end}}</td>
-							<td>{{role.employer}}</td>
-							<td class="hidden-sm hidden-xs" >{{role.description}}</td>
+							<td>{{project.title}}</td>
+							<td>{{project.start}}</td>
+							<td>{{project.end}}</td>
+							<td>{{project.type}}</td>
+							<td>{{project.institution}}</td>
+							<td class="hidden-sm hidden-xs" >{{project.description}}</td>
 						</tr>
 					{% endfor %}
 				</tbody>
