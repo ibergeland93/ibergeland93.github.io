@@ -62,7 +62,7 @@ github:
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo:
-   My background in Industrial Engineering and Operations Research as both an Undergraduate and Graduate student has developed me into a critical thinker and optimization seeker. Experience in Python and SQL, coupled with a background in probability theory and optimization analytics, allows me to approach projects with decisiveness. <br/><br/>
+   <strong>Background</strong>: My background in Industrial Engineering and Operations Research as both an Undergraduate and Graduate student has developed me into a critical thinker and optimization seeker. Experience in Python and SQL, coupled with a background in probability theory and optimization analytics, allows me to approach projects with decisiveness. <br/><br/>
    <strong>Data Science</strong>: I work mostly in Python, but have fundamental understanding of R. The packages in Python I am comfortable working with are Numpy, Pandas, Matplotlib, and Scikit. I have worked with large genetic data sets – normalizing them before using feature engineering methods such as PCA and KEGG Pathways before modeling with SVM, Logistic Regression, and Mediboost.<br/><br/>
    <strong>Microbiology</strong>: Solid understanding of next generation sequencing for RNA and DNA, specifically in library preparation of RNA’s, through experience in customer and product development for stealth start-up. Experience working with Omics data in candidates predisposed to developing diabetes. Familiar with KEGG Pathways, BioPython, and HUGO.<br/><br/>
    
