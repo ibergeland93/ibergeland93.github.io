@@ -31,17 +31,17 @@ projects:
    project type: Industry partner
    industry partner: UCSF Computational Genomics Lab 
    description: From clinical trial participants, consolidate omics data and behavioral data using Python. Feature engineering using PCA and KEGG Pathways. Model approach with Log Regression, SVM, and Mediboost.
- - title: *placeholder for UCSF Volunteer projects*
+ - title: placeholder for UCSF Volunteer projects
    start: Jan 2019
    end: July 2019
    project type: Volunteer
    Organization: UCSF Computational Genomics Lab
-   description: *placeholder*
- - title: *placeholder for DataX project*
+   description: placeholder
+ - title: placeholder for DataX project
    start: Jan 2019
    end: May 2019
    project type: Academic
-   description: *placeholder*
+   description: placeholder
 
 #Education is required
 education:
